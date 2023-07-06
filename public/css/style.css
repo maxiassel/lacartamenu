@@ -1,0 +1,15 @@
+h1{
+    color: brown;
+}
+ul{
+    font-family: fantasy;
+}
+.parrafo{
+    font-style: oblique;
+}
+img.imagen{
+    float: right;
+}
+main{
+    float: right;
+}
